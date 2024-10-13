@@ -1,7 +1,16 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
+  overflow: scroll;
 }
+
 .head {
+  font-family: sans-serif;
+  background-color: aquamarine;
+  color: blue;
+  position: sticky;
+  top: 0;
 }
 
 .row {

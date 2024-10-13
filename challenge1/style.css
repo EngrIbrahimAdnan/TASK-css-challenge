@@ -1,0 +1,37 @@
+div {
+  color: white;
+  padding: 10px;
+  /* margin: 20px; */
+}
+
+body {
+  background-color: #24002a;
+  margin: 0px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  padding-right: 40px;
+}
+
+.paddedWhiteBorder {
+  border: 2px solid;
+  border-color: rgb(255, 255, 255);
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+  font-family: "Qwitcher Grypen";
+}
+
+.centerText {
+  text-align: center;
+}
+
+.harryPotterImage {
+  height: 400px;
+  width: auto;
+}
+
+.w3-black {
+  background-color: black;
+}
